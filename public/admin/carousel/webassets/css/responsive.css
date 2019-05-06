@@ -1,0 +1,277 @@
+@media only screen and (min-width: 1025px) {
+    
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+   	.banner-text h1 {
+    	font-size: 40px;
+    }
+
+    .banner-text h2 {
+    	font-size: 26px;
+    }
+
+    .main-content .who-top h1,
+    .main-content .who-bottom h1,
+    .main-content .service h1,
+    .main-content .team h1 {
+		font-size: 30px;
+	}
+
+	.main-content .service h2,
+	.main-content .team h2 {
+		font-size: 24px;
+	}
+
+	.main-content .team p {
+		font-size: 16px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.container {
+		width: 90%;
+	}
+
+	.banner-text {
+		top: 210px;
+	}
+
+	.banner-text h1 {
+    	font-size: 36px;
+    }
+
+    .banner-text h2 {
+    	font-size: 28px;
+    }
+
+    .main-menu-top ul li {
+    	padding: 0 0 0 20px;
+    }
+
+    .header .main-menu {
+    	margin: 35px 0 0;
+    }
+
+    .header .main-menu li a {
+    	font-size: 18px;
+    }
+
+    .slick-prev:before,
+	.slick-next:before {
+		font-size: 35px;
+	}
+
+	.box .hover,
+	.box .image img {
+		height: 260px;
+	}
+
+	.recent-work .title h1 {
+		font-size: 30px;
+	}
+
+	.recent-work .title p {
+		font-size: 17px;
+	}
+
+    .main-content .who-top h1,
+    .main-content .who-bottom h1 {
+		font-size: 32px;
+		margin: 0 0 20px;
+	}
+
+	.main-content .service h1,
+	.main-content .team h1 {
+		font-size: 32px;
+		margin: 0 0 30px;
+	}
+
+	.main-content .who-top p,
+    .main-content .who-bottom p,
+    .main-content .service p,
+    .main-content .team p {
+		font-size: 18px;
+	}
+
+	.main-content .team h2 {
+		font-size: 24px;
+	}
+
+	.main-content .team p {
+		font-size: 16px;
+	}
+
+	.main-content .work-detail p {
+		margin: 0 0 15px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.banner-text {
+		display: none;
+	}
+
+	.slick-prev:before,
+	.slick-next:before {
+		display: none;
+	}
+
+	.recent-work .title h1 {
+		font-size: 30px;
+	}
+
+	.recent-work .title p {
+		font-size: 17px;
+	}
+
+	.main-content .who-top h1,
+    .main-content .who-bottom h1 {
+		font-size: 28px;
+		margin: 0 0 20px;
+	}
+
+	.main-content .service h1,
+	.main-content .team h1 {
+		font-size: 28px;
+		margin: 0 0 30px;
+		text-align: center;
+	}
+
+	.main-content .who-top p,
+    .main-content .who-bottom p {
+		font-size: 18px;
+    }
+
+    .main-content .service p,
+    .main-content .team p {
+		font-size: 18px;
+		text-align: center;
+	}
+
+	.main-content .service h2,
+	.main-content .team h2 {
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.main-content .work-detail {
+		padding: 0;
+	}
+
+	.main-content .work-detail h2 {
+		margin: 0 0 3px;
+		padding-top: 10px;
+	}
+
+	.main-content .work-detail p {
+		margin: 0;
+		border-bottom: 2px solid #fff;
+		padding-bottom: 10px;
+	}
+
+	.footer {
+		text-align: center;
+	}
+
+	.footer h1 {
+		margin: 0 0 10px;
+	}
+
+	.footer-xs {
+		margin: 0 0 20px;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+	.box .hover,
+	.box .image img {
+		height: 260px;
+	}
+
+	.sidenav {
+		padding-top: 15px;
+	}
+
+  	.sidenav a {
+  		font-size: 22px;
+  	}
+
+	.btn-slide  {
+		font-size: 30px;
+	}
+
+  	.banner-text {
+		display: none;
+	}
+
+	.slick-prev:before,
+	.slick-next:before {
+		display: none;
+	}
+
+	.recent-work .title h1 {
+		font-size: 30px;
+	}
+
+	.recent-work .title p {
+		font-size: 17px;
+	}
+
+	.main-content .who-top h1,
+    .main-content .who-bottom h1 {
+		font-size: 28px;
+		margin: 0 0 20px;
+	}
+
+	.main-content .service h1,
+	.main-content .team h1 {
+		font-size: 28px;
+		margin: 0 0 30px;
+		text-align: center;
+	}
+
+	.main-content .who-top p,
+    .main-content .who-bottom p {
+		font-size: 18px;
+    }
+
+    .main-content .service p,
+    .main-content .team p {
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.main-content .service h2,
+	.main-content .team h2 {
+		font-size: 22px;
+		text-align: center;
+	}
+
+	.main-content .work-detail {
+		padding: 0;
+	}
+
+	.main-content .work-detail h2 {
+		margin: 0 0 3px;
+		padding-top: 10px;
+	}
+
+	.main-content .work-detail p {
+		margin: 0;
+		border-bottom: 2px solid #fff;
+		padding-bottom: 10px;
+	}
+
+	.footer {
+		text-align: center;
+	}
+
+	.footer h1 {
+		margin: 0 0 10px;
+	}
+
+	.footer-xs {
+		margin: 0 0 20px;
+	}
+}
